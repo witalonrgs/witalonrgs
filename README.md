@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**witalonrgs/witalonrgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>System.out.println("Welcome to my github!") 👋</h1>
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/witalon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## My name is Witalon Rodrigues
+(Java | Python | Javascript | HTML | CSS )
+- 👩‍💻 Young Apprenticer @[Claro](https://www.claro.com.br/)
+- 🎓 Software Engeneering Student @ [Fiap](https://www.fiap.com.br/graduacao/bacharelado/engenharia-de-software/)
+
+<div align="left">
+  
+[![Witalon top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=witalonrgs&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+  
+ </div>
