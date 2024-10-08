@@ -1,7 +1,7 @@
 
 <h1>System.out.println("Welcome to my github!") 👋</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/witalon
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/witalon)](https://www.linkedin.com/in/witalon)
 
 
 ## My name is Witalon Rodrigues
