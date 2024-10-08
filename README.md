@@ -5,12 +5,11 @@
 
 
 ## My name is Witalon Rodrigues
-(Java | Python | Javascript | HTML | CSS )
+(Java | Python | Javascript | HTML | CSS)
 - 👩‍💻 Young Apprenticer @[Claro](https://www.claro.com.br/)
-- 🎓 Software Engeneering Student @ [Fiap](https://www.fiap.com.br/graduacao/bacharelado/engenharia-de-software/)
+- 🎓 Software Engeneering Student @[Fiap](https://www.fiap.com.br/graduacao/bacharelado/engenharia-de-software/)
 
-<div align="left">
-  
-[![Witalon top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=witalonrgs&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
-  
- </div>
+<div align="left">   
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JulioDev01&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioDev01&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
